@@ -1,2 +1,2 @@
-#Fragment App
-##Fragment App just created with no Main Activity
+# Fragment App
+## Fragment App created with Main Activity empty
